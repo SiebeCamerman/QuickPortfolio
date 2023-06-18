@@ -17,7 +17,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
   };
 };
 
-const whatIsDI: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
+const aboutMe: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
   return (
     <div>
       <Head>
@@ -70,4 +70,4 @@ const whatIsDI: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
   );
 };
 
-export default whatIsDI;
+export default aboutMe;

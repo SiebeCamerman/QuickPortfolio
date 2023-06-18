@@ -42,7 +42,7 @@ const Home: NextPage<PageData> = ({ allProjectsData, allEventsData }) => {
                 Software Developer
               </h1>
               <p className="pb-5 font-bold">Siebe Camerman</p>
-              <Link href="/whatIsDI">
+              <Link href="/aboutMe">
                 <a className="font-heading text-lg sm:text-xl rounded-full border-2 border-dinoblack px-5 py-1 hover:border-tmorange dark:hover:border-coffeegreen">
                   Learn more
                 </a>
