@@ -34,7 +34,7 @@ const aboutMe: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
             About me
           </h1>
           <p className="font-sans text-md sm:text-lg text-justify">
-          Hello, I am Siebe Camerman, a 20-year-old software developer with a deep passion for IT. In my free time, I enjoy experimenting and exploring within the field. I am driven, curious, and determined to constantly improve my skills. With an enthusiastic mindset, I am ready to collaborate and achieve great technological feats. Let's explore the possibilities together and create innovative solutions.
+          Hello, I am Siebe Camerman, a 20-year-old software developer with a deep passion for IT. In my free time, I enjoy experimenting and exploring within the field. I am driven, curious, and determined to constantly improve my skills. With an enthusiastic mindset, I am ready to collaborate and achieve great technological feats. Let&rsquo;s explore the possibilities together and create innovative solutions.
           </p>
         </div>
         <div className="mt-28 md:mt-40 lg:mt-52 xl:mt-60 bg-[linear-gradient(-9deg,_#191919_50%,_#f6f2e7_50%)]">
