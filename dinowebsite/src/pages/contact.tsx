@@ -35,6 +35,7 @@ const Contact: NextPage = () => {
                   <a href="https://www.linkedin.com/in/siebecamerman/" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="akar-icons:linkedin-fill"/></a>
                   <a href="https://www.taskade.com/d/vzUnZrHJKX9e1DKj?from=shared" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="icons8:finish-flag"></Icon></a>
                   <a href="https://twitter.com/SiebeCamerman" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="akar-icons:twitter-fill"/></a>
+                  <a href="./images/CV-Siebe-Camerman-ENG.pdf" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="academicons:cv-square"/></a>
                 </div>
               </div>
             </div>
