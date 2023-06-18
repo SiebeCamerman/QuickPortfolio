@@ -1,7 +1,7 @@
 ---
 title: PeopleCounter
 path: peoplecounter
-image: /projects/race-to-the-future/peoplecounter.png
+image: /projects/peoplecounter/peoplecounter.png
 date: 22-12-2023
 summary: Real-time person detection solution for monitoring classroom occupancy and addressing congestion in the DI department.
 featured: true

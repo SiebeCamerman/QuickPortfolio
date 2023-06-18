@@ -1,7 +1,7 @@
 ---
 title: De Waaiburg App
 path: waaiburg
-image: /projects/race-to-the-future/waaiburg.png
+image: /projects/waaiburg/waaiburg.png
 date: 22-12-2023
 summary: Enhanced app for tracking client journeys and providing information about Special Youth Care services.
 featured: true
