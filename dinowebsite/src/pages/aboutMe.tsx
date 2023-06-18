@@ -34,7 +34,7 @@ const aboutMe: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
             About me
           </h1>
           <p className="font-sans text-md sm:text-lg text-justify">
-          Hallo, ik ben Siebe Camerman, een 20-jarige softwareontwikkelaar met een diepe passie voor IT. Mijn vrije tijd besteed ik graag aan experimenteren en ontdekken binnen het vakgebied. Ik ben gedreven, nieuwsgierig en vastberaden om mijn vaardigheden voortdurend te verbeteren. Met een enthousiaste instelling sta ik klaar om samen te werken en geweldige technologische prestaties neer te zetten. Laten we samen de mogelijkheden verkennen en innovatieve oplossingen creëren.
+          Hello, I am Siebe Camerman, a 20-year-old software developer with a deep passion for IT. In my free time, I enjoy experimenting and exploring within the field. I am driven, curious, and determined to constantly improve my skills. With an enthusiastic mindset, I am ready to collaborate and achieve great technological feats. Let's explore the possibilities together and create innovative solutions.
           </p>
         </div>
         <div className="mt-28 md:mt-40 lg:mt-52 xl:mt-60 bg-[linear-gradient(-9deg,_#191919_50%,_#f6f2e7_50%)]">
@@ -44,16 +44,16 @@ const aboutMe: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
           <h1 className="pt-52 text-center font-heading text-4xl">Experience</h1>
             <div className="grid md:grid-cols-3 grid-cols-1 gap-6 pt-24 pb-24">
               <div className="mx-auto">
-                <Icon className="w-40 h-40 mx-auto" icon="mdi:laravel"/>
-                <p className="text-center pt-6">Laravel 9</p>
+                <Icon className="w-40 h-40 mx-auto" icon="logos:java"/>
+                <p className="text-center pt-6">Java</p>
               </div>
               <div className="mx-auto">
-                <Icon className="w-40 h-40 mx-auto" icon="teenyicons:python-outline"/>
+                <Icon className="w-40 h-40 mx-auto" icon="logos:python"/>
                 <p className="text-center pt-6">Python</p>
               </div>
               <div className="mx-auto">
-                <Icon className="w-40 h-40 mx-auto" icon="ic:outline-home"/>
-                <p className="text-center pt-6">Home Assistant</p>
+                <Icon className="w-40 h-40 mx-auto" icon="logos:flutter"/>
+                <p className="text-center pt-6">Flutter</p>
               </div>
             </div>
             <div className="border-8 rounded-[50px] mb-5 lg:mb-0 relative mx-auto bg-dinoblack overflow-hidden h-[441px] w-[331px] xl:h-[618px] xl:w-[463px]">

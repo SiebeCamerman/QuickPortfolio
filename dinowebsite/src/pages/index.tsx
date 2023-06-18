@@ -78,7 +78,7 @@ const Home: NextPage<PageData> = ({ allProjectsData, allEventsData }) => {
                           alt="Siebe"
                         />
                 </div>
-                <div className="my-auto"><p className="text-justify">Ik ben een gedreven en energieke softwareontwikkelaar met een bedaarde aanpak. Mijn passie voor technologie en oog voor detail stellen mij in staat om creatieve oplossingen te leveren die voldoen aan de behoeften van mijn klanten. Met flexibiliteit, teamgeest en het vermogen om binnen deadlines te leveren, voeg ik waarde toe aan elk project. Ik blijf voortdurend leren en groeien om mijn vaardigheden verder te ontwikkelen.</p>
+                <div className="my-auto"><p className="text-justify">I am a driven and energetic software developer with a calm approach. My passion for technology and attention to detail enable me to deliver creative solutions that meet the needs of my clients. With flexibility, teamwork, and the ability to deliver within deadlines, I add value to every project. I continue to learn and grow constantly to further develop my skills.</p>
                 </div>
                 {/* {allEventsData.map((event, i) => {
                   if (i < 2) {
