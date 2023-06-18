@@ -30,7 +30,7 @@ const Contact: NextPage = () => {
               <div className="my-auto">
                 <p className="text-white pb-7">Siebe Camerman</p>
                 <p className="text-white pb-16">R0889616@student.thomasmore.be</p>
-                <div className="grid grid-cols-4">
+                <div className="grid grid-cols-5">
                   <a href="https://github.com/SiebeCamerman" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="akar-icons:github-fill"/></a>
                   <a href="https://www.linkedin.com/in/siebecamerman/" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="akar-icons:linkedin-fill"/></a>
                   <a href="https://www.taskade.com/d/vzUnZrHJKX9e1DKj?from=shared" target="_blank" rel="noreferrer"><Icon className="w-10 h-10 text-white" icon="icons8:finish-flag"></Icon></a>
