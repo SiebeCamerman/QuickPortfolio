@@ -1,9 +1,9 @@
 ---
 title: Race To The Future
 path: race-to-the-future
-image: /projects/race-to-the-future/race-to-the-future.jpg
+image: /projects/race-to-the-future/rttf.jpg
 date: 16-05-2023
-summary: Race To The Future for Thomas More
+summary: Autonomously driving RC car project incorporating Raspberry Pi, OpenCV Lane Detection, and PWM control for motors.
 featured: true
 ---
 # Race To The Future
@@ -22,21 +22,13 @@ To ensure that the car stays on the track, we utilized OpenCV Lane Detection. Th
 
 During the project, we focused on four major topics within OpenCV:
 
-### Filter (HSV)
+- **Filter (HSV):** We applied a filter to the car's camera image using HSV (Hue, Saturation, Value). This enabled us to extract specific color segments and optimize the image processing.
 
-We applied a filter to the car's camera image using HSV (Hue, Saturation, Value). This enabled us to extract specific color segments and optimize the image processing.
+- **Canny (Edge Detection, Contrast):** We utilized the Canny algorithm for edge detection and contrast enhancement in the image. This was crucial for accurately detecting the lane markings.
 
-### Canny (Edge Detection, Contrast)
+- **Region of Interest (ROI):** By defining a specific region of interest (ROI) in the camera image, we could concentrate on the relevant parts of the track. This improved the performance and efficiency of the lane detection.
 
-We utilized the Canny algorithm for edge detection and contrast enhancement in the image. This was crucial for accurately detecting the lane markings.
-
-### Region of Interest (ROI)
-
-By defining a specific region of interest (ROI) in the camera image, we could concentrate on the relevant parts of the track. This improved the performance and efficiency of the lane detection.
-
-### Hough Lines (Connecting Points)
-
-Using the Hough Lines algorithm, we connected points on the lane markings. This allowed us to determine a smooth and consistent path for the car.
+- **Hough Lines (Connecting Points):** Using the Hough Lines algorithm, we connected points on the lane markings. This allowed us to determine a smooth and consistent path for the car.
 
 ## Challenges and Optimizations
 
