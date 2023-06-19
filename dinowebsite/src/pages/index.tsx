@@ -73,7 +73,7 @@ const Home: NextPage<PageData> = ({ allProjectsData, allEventsData }) => {
               <div className="grid lg:grid-cols-2">
                 <div className="border-8 mb-5 lg:mb-0 relative mx-auto rounded-[50px] overflow-hidden h-[441px] w-[331px] xl:h-[618px] xl:w-[463px]">
                   <Image
-                          src="./images/Siebe.png"
+                          src="./images/Siebe.jpg"
                           layout="fill"
                           alt="Siebe"
                         />

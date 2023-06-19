@@ -58,7 +58,7 @@ const aboutMe: NextPage<ProjectCounterProps> = ({ projectAmountNumber }) => {
             </div>
             <div className="border-8 rounded-[50px] mb-5 lg:mb-0 relative mx-auto bg-dinoblack overflow-hidden h-[441px] w-[331px] xl:h-[618px] xl:w-[463px]">
                   <Image
-                          src="./images/Siebe.png"
+                          src="./images/Siebe.jpg"
                           layout="fill"
                           alt="Siebe"
                         />
